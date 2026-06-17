@@ -88,7 +88,7 @@ const HomePage = () => {
               </p>
             </div>
             <div className="box bg-sky-400 rounded-lg shadow p-4">
-              <i className="ri-number-1 text-3xl text-white"></i>
+              <i className="ri-number-2 text-3xl text-white"></i>
               <h3 className=" text-xl font-bold text-white mt-6 mb-2">
                 Services Name 2
               </h3>
@@ -100,7 +100,7 @@ const HomePage = () => {
               </p>
             </div>
             <div className="box bg-sky-400 rounded-lg shadow p-4">
-              <i className="ri-number-1 text-3xl text-white"></i>
+              <i className="ri-number-3 text-3xl text-white"></i>
               <h3 className=" text-xl font-bold text-white mt-6 mb-2">
                 Services Name 3
               </h3>
